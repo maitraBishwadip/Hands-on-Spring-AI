@@ -15,7 +15,7 @@ public class AIServiceTests {
     @Test
     public void testGetJoke()
     {
-        var joke = aiService.getJoke("java");
+        var joke = aiService.getJoke("cartoons");
         System.out.println(joke);
     }
 
