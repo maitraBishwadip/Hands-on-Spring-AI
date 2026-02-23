@@ -1,0 +1,10 @@
+2026-02-23T21:16:04.963+05:30  INFO 24504 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : Starting LearnSpringAiApplicationTests using Java 25.0.2 with PID 24504 (started by bishw in D:\d drive\Spring boot\learn-springAI\learn-springAI)
+2026-02-23T21:16:04.965+05:30 DEBUG 24504 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : Running with Spring Boot v3.5.11, Spring v6.2.16
+2026-02-23T21:16:04.966+05:30  INFO 24504 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2026-02-23T21:16:06.805+05:30 DEBUG 24504 --- [learn-springAI] [main] o.s.a.m.t.a.ToolCallingAutoConfiguration : Cannot load class: org.springframework.security.oauth2.client.ClientAuthorizationException
+2026-02-23T21:16:07.514+05:30  INFO 24504 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : Started LearnSpringAiApplicationTests in 3.058 seconds (process running for 4.697)
+2026-02-23T22:39:46.725+06:00  INFO 12908 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : Starting LearnSpringAiApplicationTests using Java 25.0.2 with PID 12908 (started by bishw in D:\d drive\Spring boot\learn-springAI\learn-springAI)
+2026-02-23T22:39:46.730+06:00 DEBUG 12908 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : Running with Spring Boot v3.5.11, Spring v6.2.16
+2026-02-23T22:39:46.731+06:00  INFO 12908 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2026-02-23T22:39:49.525+06:00 DEBUG 12908 --- [learn-springAI] [main] o.s.a.m.t.a.ToolCallingAutoConfiguration : Cannot load class: org.springframework.security.oauth2.client.ClientAuthorizationException
+2026-02-23T22:39:50.389+06:00  INFO 12908 --- [learn-springAI] [main] c.m.l.LearnSpringAiApplicationTests      : Started LearnSpringAiApplicationTests in 4.293 seconds (process running for 6.454)

@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: learn-springAI
-  ai:
-    ollama:
-      base-url: http://localhost:11434
-      chat:
-        options:
-          model: qwen3-vl:4b
